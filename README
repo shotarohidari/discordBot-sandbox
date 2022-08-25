@@ -1,0 +1,7 @@
+# discordでbot作る
+
+## herokuを使うといい感じにできるのか。
+
+チャンネルにメッセージを送るには型を絞る必要がある。
+https://github.com/discordjs/discord.js/issues/3622
+
